@@ -1,5 +1,5 @@
 # How-To-Pull-AWS-S3-Data-Using-Lambda
-How to fetch S3 data using AWS Lambda
+How to fetch S3 data (.csv) using AWS Lambda
 
 
 
@@ -37,4 +37,12 @@ How to fetch S3 data using AWS Lambda
   Click Deploy Button to make changes
 
 ## To Check the function
-  
+### Step 1
+Upload CSV file to the S3 bucket and go to lambda console
+### Step 2
+Go to Lambda function click on Monitor click on View CloudWatch logs tab
+### Step 3
+It will redirect to the cloudwatch log click on latest log you will get data below 
+
+![image](https://github.com/aqdamaslam/How-To-Pull-AWS-S3-Data-Using-Lambda/assets/56361347/e5eb7cd6-f828-4d56-867d-7724ba4f815e)
+
