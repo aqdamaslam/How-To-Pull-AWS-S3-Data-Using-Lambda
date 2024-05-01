@@ -2,8 +2,6 @@
 How to fetch S3 data using AWS Lambda
 
 
-# Glue-P1
-How to fetch S3 data using AWS Lambda
 
 ## Steps to fetch S3 Data Using Lambda
 ### Step 1
