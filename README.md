@@ -78,4 +78,4 @@ It will redirect to the cloudwatch log click on latest log you will get data bel
 
 ---
 
-By following these steps, you can set up an AWS Lambda function to pull data from an S3 bucket, which can be triggered manually or by S3 events.
+By following these steps, you can set up an AWS Lambda function to pull data from an S3 bucket, which can be triggered manually or by S3 events. 
