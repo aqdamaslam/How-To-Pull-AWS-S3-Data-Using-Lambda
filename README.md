@@ -21,7 +21,7 @@ To pull data from an AWS S3 bucket using AWS Lambda, follow these steps. This gu
    - Provide a role name, such as `LambdaS3Role`, and create the role.
 
 ### Step 3: Create the Lambda Function
-
+ 
 1. **Go to AWS Lambda:**
    - In the AWS Management Console, navigate to **Lambda** and click on **Create function**.
    - Choose **Author from scratch**.
